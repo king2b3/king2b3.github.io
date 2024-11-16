@@ -2,18 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Here are some courses I have taught, and developed.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
 # My Teaching Methodology
-My goal as an educator is to guide students through a new subject, as an expert in the material.
+My goal as an educator is to guide students through a new subject, as their expert in the material.
 My courses feature active learning through reflection, in-class examples, group work, and personalized assignments.
 Identifying key goals and outcomes with my students at the beginning of the semester alerts them to my expectations, and allows them to plan for their own personal learning goals.
+
+I don't view memorization as a way to measure learning success, and prefer presentations, reports, and projects as a way to grade students
 After completing my course, a successful student will have a grasp on the material and the ability to apply what they have learned in an industry or academic position.
 
 # Courses Developed
@@ -32,9 +31,14 @@ Students will learn how to critically review literature, make high level technic
 Currently developing a course around using Evolutionary Algorithms (EA) to solve complex problems.
 Topics range from the Canonical Genetic Algorithm, Evolutionary Strategies, Genetic Programming, and simple Memetic Algorithms.
 
+### Introduction to Cryptanalysis 
+Currently developing a course covering the basics of cryptographic algorithms, group theory relating to cryptography, attacks against cryptographic algorithms, hashing, and post-quantum cryptography.
+Students will understand the mathematical theory behind core cryptographic algorithms, and how they are implemented in practice.
+We will then cover simple attacks in software, and hardware specific attacks like like side-channel analysis (SCA), and fault injection.
+
 # Course Taught
 ## University of Dayton
-- CPS 622 - Software Project Management: Summer 2023, Fall 2023, Spring 2024 (x2)
+- CPS 622 - Software Project Management: Summer 2023, Fall 2023, Spring 2024 (x2), Fall 2024
 - CPS 349/592 - Data Science and Pattern Recognition: Spring 2023
 
 ## University of Cincinnati

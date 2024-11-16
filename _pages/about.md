@@ -2,23 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: University of Dayton, Datyon, OH. - bking2@udayton.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Dayton, OH 45410</p>
+  # more_info: >
+  #  <p>Dayton, OH, USA</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Hello, I am a big silly head, and totally understand how to easily update this website!
+Hello, I am a research and en educator based out of Dayton Ohio, USA.
+I teach adjunct at the University of Dayton, in the Computer Science department, and work as a researcher apply AI techniques to Hardware Security.
+My passion is educating others, and always learning new things.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I geek out over a proper manual espresso pull, discussing education methods, and cooking!
+If you don't find me at work, you'll see my struggling to keep up with my 4 cats and 2 dogs (Cleo-catra, Ella Catsgerld, Walter Grumpy, Meow-vatar Kora, Indiana Bones, and Winry Barkbell).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please feel free to reach out if you'd like to collaborate!
+
+[comment]: <> (Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
