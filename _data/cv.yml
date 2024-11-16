@@ -1,0 +1,90 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Bayley King
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Computer Science and Engineering
+      institution: University of Cincinnati, Cincinnati, Ohio, USA
+      year: 2022
+      description:
+        - Dissertation - Increasing Security and Trust in HDL IP through Evolutionary Computing
+        - title: Preparing Future Faculty
+          contents:
+            - Program Certificate
+    - title: B.S.
+      institution: Electrical Engineering
+      year: 2019
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Riverside Research
+      institution: Dayton, Ohio, USA
+      year: 2022 - Current
+      description:
+        - Senior Data Scientist | May 2024 - Current
+        - Lead Research Scientist | July 2023 - April 2024
+        - Senior Research Scientist | May 2022 - June 2023
+    
+    - title: University Dayton
+      institution: Dayton, Ohio, USA
+      year: 2022 - Current
+      description:
+        - Adjunct Professor
+
+    - title: University Cincinnati
+      institution: Cincinnati, Ohio, USA
+      year: 2017 - 2022
+      description:
+        - Graduate Assistant | 2019 - 2022
+        - Teaching Assistant | 2017 - 2021
+
+    - title: Duke Energy
+      institution: Cincinnati, Ohio, USA
+      year: 2017 - 2018
+      description:
+        - Transmission Engineering Co-op
+
+    - title: University of Cincinnati
+      institution: Cincinnati, Ohio, USA
+      year: 2017 - 2016
+      description:
+        - Design Engineering Co-op
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2019
+#       items: 
+#         - Excellence in Teaching
+#     - year: 2016
+#       items: 
+#         - Golden Fibonacci Design Award
+
+# - title: Invited Talks
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
